@@ -67,7 +67,7 @@ print(firefox_fp)
 ### Perform HTTP Request with Fingerprints
 ```python
 from curl_cffi import requests
-from main import generate_browser_ciphers
+from fp_gen import generate_browser_ciphers
 from akamai import generate_akami_fingerprint
 
 ja3 = generate_browser_ciphers("chrome")

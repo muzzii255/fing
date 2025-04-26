@@ -22,7 +22,7 @@ Perfect for:
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/yourusername/fing.git
+git clone https://github.com/muzzii255/fing.git
 cd fing
 pip install -r requirements.txt  # Requires curl-cffi
 ```

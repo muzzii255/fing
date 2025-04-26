@@ -133,7 +133,8 @@ Each fingerprint contains 4 fields:
 
 ## 🎓 Research-Based
 Built upon Akamai's research into passive fingerprinting and TLS/HTTP/2 client identification.
-
+[Passive-Fingerprinting-Of-HTTP2-Clients] (https://www.blackhat.com/docs/eu-17/materials/eu-17-Shuster-Passive-Fingerprinting-Of-HTTP2-Clients-wp.pdf)
+[TLS Fingerprinting with JA3 and JA3S] (https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/)
 ---
 
 ## 📅 License
@@ -143,10 +144,10 @@ MIT License © Muzzii255
 
 ## ✨ Credits
 Special thanks to:
+- Salesforce for the original JA3 whitepaper
 - Akamai for publishing fingerprinting research
 - curl_cffi for enabling fine-tuned TLS control
 
 ---
 
-Happy evading 🤓
 
